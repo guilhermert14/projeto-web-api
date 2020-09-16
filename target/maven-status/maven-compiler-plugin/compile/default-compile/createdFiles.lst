@@ -1,0 +1,8 @@
+br\com\commons\PropertiesManager.class
+br\com\enums\Browsers$1.class
+br\com\relatorios\GenerateHTMLReport.class
+br\com\enums\Browsers.class
+br\com\enums\Browsers$2.class
+br\com\configuracao\Hooks.class
+br\com\commons\BaseTest.class
+br\com\interfaces\BrowserApplication.class
