@@ -4,7 +4,7 @@
 @web
 Funcionalidade: Cadastro de usuário
 
-  @cadastro
+  @cadastro @criticalFlow
   Cenario: Validar mensagem de sucesso ao cadastrar um usuário
     Dado que entro na tela de login
     E realizo o cadastro com dados "validos"

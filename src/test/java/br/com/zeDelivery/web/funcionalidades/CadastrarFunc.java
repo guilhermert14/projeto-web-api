@@ -3,8 +3,6 @@ package br.com.zeDelivery.web.funcionalidades;
 import br.com.commons.BaseTest;
 import br.com.commons.PropertiesManager;
 import br.com.zeDelivery.web.pages.CadastrarPage;
-import org.openqa.selenium.By;
-import org.openqa.selenium.support.ui.ExpectedConditions;
 
 public class CadastrarFunc extends BaseTest {
 

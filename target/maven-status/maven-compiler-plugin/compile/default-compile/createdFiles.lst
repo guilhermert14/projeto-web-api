@@ -1,8 +1,13 @@
 br\com\commons\PropertiesManager.class
 br\com\enums\Browsers$1.class
+br\com\commons\DataGenerator.class
 br\com\relatorios\GenerateHTMLReport.class
-br\com\enums\Browsers.class
 br\com\enums\Browsers$2.class
+br\com\enums\Browsers.class
+br\com\enums\OpcoesUsuarios.class
 br\com\configuracao\Hooks.class
+br\com\commons\VariaveisEstaticas.class
+br\com\enums\OpcoesUsuarios$1.class
 br\com\commons\BaseTest.class
 br\com\interfaces\BrowserApplication.class
+br\com\interfaces\Usuarios.class

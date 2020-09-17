@@ -2,8 +2,9 @@ package br.com.zeDelivery.web.steps;
 
 import br.com.zeDelivery.web.funcionalidades.CommonFunc;
 import br.com.zeDelivery.web.funcionalidades.HomeFunc;
-import cucumber.api.PendingException;
-import cucumber.api.java.pt.*;
+import cucumber.api.java.pt.Dado;
+import cucumber.api.java.pt.E;
+import cucumber.api.java.pt.Então;
 import org.junit.Assert;
 
 public class HomeStep {

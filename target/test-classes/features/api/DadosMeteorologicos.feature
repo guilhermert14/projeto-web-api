@@ -1,7 +1,6 @@
 #language: pt
 #encoding: UTF-8
 #author: Guilherme Teixeira
-
 Funcionalidade: Validar a chamada dos dados meteorológicos atuais para um local
 
   @localByName

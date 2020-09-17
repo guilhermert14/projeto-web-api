@@ -2,12 +2,6 @@ package br.com.zeDelivery.web.funcionalidades;
 
 import br.com.commons.BaseTest;
 import br.com.zeDelivery.web.pages.HomePage;
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-
-import javax.swing.*;
 
 public class HomeFunc extends BaseTest {
 
